@@ -1,0 +1,15 @@
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.AssemblyInfoInputs.cache
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.AssemblyInfo.cs
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.csproj.CoreCompileInputs.cache
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.sourcelink.json
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\bin\Debug\net8.0\ExemploDIP_Legado.exe
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\bin\Debug\net8.0\ExemploDIP_Legado.deps.json
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\bin\Debug\net8.0\ExemploDIP_Legado.runtimeconfig.json
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\bin\Debug\net8.0\ExemploDIP_Legado.dll
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\bin\Debug\net8.0\ExemploDIP_Legado.pdb
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.dll
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\refint\ExemploDIP_Legado.dll
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.pdb
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ExemploDIP_Legado.genruntimeconfig.cache
+C:\Users\guilherme_f_campos\source\repos\ExemploDIP_Legado\ExemploDIP_Legado\obj\Debug\net8.0\ref\ExemploDIP_Legado.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExemploDIP_Legado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d1ae7268dcaa552acacf321f0d787af90d59825")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExemploDIP_Legado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExemploDIP_Legado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

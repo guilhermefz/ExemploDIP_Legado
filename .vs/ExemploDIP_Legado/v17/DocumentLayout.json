@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|c:\\users\\guilherme_f_campos\\source\\repos\\exemplodip_legado\\exemplodip_legado\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7D2F8A-5DB7-4A2D-BA35-18B1F5907AAD}|ExemploDIP_Legado\\ExemploDIP_Legado.csproj|solutionrelative:exemplodip_legado\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\ArCondicionado.cs",
+              "RelativeDocumentMoniker": "ExemploDIP_Legado\\ArCondicionado.cs",
+              "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\ArCondicionado.cs",
+              "RelativeToolTip": "ExemploDIP_Legado\\ArCondicionado.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:43:58.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\IDevice.cs",
+              "RelativeDocumentMoniker": "ExemploDIP_Legado\\IDevice.cs",
+              "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\IDevice.cs",
+              "RelativeToolTip": "ExemploDIP_Legado\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:02:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\State.cs",
+              "RelativeDocumentMoniker": "ExemploDIP_Legado\\State.cs",
+              "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\State.cs",
+              "RelativeToolTip": "ExemploDIP_Legado\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:54:14.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lamp.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Lamp.cs",
+              "RelativeDocumentMoniker": "ExemploDIP_Legado\\Lamp.cs",
+              "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Lamp.cs",
+              "RelativeToolTip": "ExemploDIP_Legado\\Lamp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:53:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Switch.cs",
+              "RelativeDocumentMoniker": "ExemploDIP_Legado\\Switch.cs",
+              "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Switch.cs",
+              "RelativeToolTip": "ExemploDIP_Legado\\Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:52:44.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Program.cs",
               "RelativeDocumentMoniker": "ExemploDIP_Legado\\Program.cs",
               "ToolTip": "C:\\Users\\guilherme_f_campos\\source\\repos\\ExemploDIP_Legado\\ExemploDIP_Legado\\Program.cs",
               "RelativeToolTip": "ExemploDIP_Legado\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T23:36:34.457Z",
               "EditorCaption": ""

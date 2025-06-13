@@ -1,21 +1,16 @@
-﻿public enum State{On, Off}
-class Lamp(State State)
+﻿namespace ExemploDIP_Legado
 {
-    public void Operate()
+    class program
     {
-        State = State == State.On ? State.Off : State.On;
-        Console.WriteLine("Luz " + (State == State.On ? "Ligada" : "Desligada"));
-    }
-}
-class Switch
-{
-    private Lamp lamp;
-    public Switch(Lamp device)
-    {
-        this.lamp = device;
-    }
-    public void Press()
-    {
-        lamp.Operate();
+        static void Main()
+        {
+            var lampada = new Lamp(State.On);
+            var meuSwitch = new Switch(lampada);
+            var ar = new ArCondicionado(State.Off);
+            var meuSwitchAr = new Switch(ar);
+            meuSwitch.Operate();
+            meuSwitch.Operate();
+            meuSwitchAr.Operate();
+        }
     }
 }
